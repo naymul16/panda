@@ -9,11 +9,14 @@
     padding: 20px 100px;
 }
 .carousel-indicators .active{
-    background-color:grey;
+    background-colo:grey;
+   
     
 }
 .carousel-indicators li{
     background-color:lightgrey;
+    
+
 }
 
 
