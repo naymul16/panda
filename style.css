@@ -4,8 +4,16 @@
 .navbar ul li{
     margin-left: 15px;
 }
+
 .carousel-item {
     padding: 20px 100px;
+}
+.carousel-indicators .active{
+    background-color:grey;
+    
+}
+.carousel-indicators li{
+    background-color:lightgrey;
 }
 
 
@@ -46,5 +54,12 @@
 }
 .cat{
     text-align: center;
-    border-bottom: 2px solid orange;
 }
+.underline{
+    background-image: linear-gradient(to right,orange,rgb(255, 200, 97));
+    width: 140px;
+    height: 8px;
+    border-radius: 5px;
+}
+
+
