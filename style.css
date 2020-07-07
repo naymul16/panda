@@ -61,5 +61,39 @@
     height: 8px;
     border-radius: 5px;
 }
+.bag{
+    padding: 10px 20px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 0 15px 0 30px;
+    
+}
+.space{
+    margin-top: 20px;
+}
+.bag h5{
+    text-align: center;
+   
+}
+.perfume{
+    padding: 10px 20px;
+    box-shadow: 5px 5px 10px grey;
+    margin-bottom: 40px;
+    border-radius: 15px 0px 30px  0px;
+}
+.perfume h5{
+    text-align: center;
+}
+
+.shoe{
+    padding: 10px 20px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 15px 0px 30px  0px;
+    
+}
+.shoe h5 {
+    text-align:center;
+    
+  
+}
 
 
